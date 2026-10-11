@@ -24,7 +24,7 @@ add --description "Lunch" --amount 20
 # id    Date       Description          amount
 # 1     2023-05-26 buy grocery          $200
 # 4     2023-10-29 Gas refill           $40
-
+https://roadmap.sh/projects/expense-tracker
 
  delete --id 1
 # Expense deleted successfully
