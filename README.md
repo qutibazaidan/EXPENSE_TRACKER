@@ -1,5 +1,5 @@
 Expense-Tracker
-Hi. this is a CLI app to track Exepenses exercise provided by rodmap.sh;
+Hi. this is a CLI app to track Exepenses exercise provided by [rodmap.sh](https://roadmap.sh/projects/expense-tracker);
 
 Features
 add an expense with a description and amount.
